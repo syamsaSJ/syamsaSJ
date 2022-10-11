@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syamsaSJ
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me julyindasyamsa@gmail.com
 
 <!---
