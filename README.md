@@ -16,7 +16,7 @@
 - [Management Information System](https://butikkopi.my.id/) — Sales & inventory web system for a coffee supplier
 - [BlueSoul Web](https://bluesoul.wuaze.com/) — A web platform for anonymous emotional sharing and song recommendations
 - [Satria Tech Web](https://satriatech.com/) — A web platform for IT consultancy & software development based in Indonesia
-- [SkillPath Web](https://skillpath.wuaze.com/) — A web platform where you can learn and practice through Levels 1, 2, and 3 — and once you’ve mastered them all, take on the final challenge!
+- [SkillPath Web](https://skillpath.wuaze.com/) — A web platform where you can learn and practice through Levels 1, 2, and 3 and once you’ve mastered them all, take on the final challenge!
 
 ---
 
