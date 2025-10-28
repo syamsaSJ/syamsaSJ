@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @syamsaSJ
 
-- 👀 I’m interested in **Software Development, UI/UX Design, and Web Developer**  
+- 👀 I’m interested in **Software Development, UI/UX Design, and Web Development**  
 - 🌱 I’m currently learning **Machine Learning**  
 - 💻 Skilled in **HTML, CSS, JavaScript, PHP, Laravel, Laravel Filament, MySQL, Phyton**  
 - 🎨 Familiar with **UI/UX Design (Figma, Canva), RAD, SDLC Methodology, Agile**  
