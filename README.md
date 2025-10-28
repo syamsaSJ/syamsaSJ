@@ -15,6 +15,7 @@
 - [Website Point of Sale](https://nakopipos.jualkopipurwokerto.com/) — POS system for sales & inventory management  
 - [Management Information System](https://butikkopi.my.id/) — Sales & inventory web system for a coffee supplier
 - [BlueSoul Web](https://bluesoul.wuaze.com/) — A web platform for anonymous emotional sharing and song recommendations
+- [Satria Tech Web](https://satriatech.com/) — A web platform for IT consultancy & software development based in Indonesia 
 
 ---
 
