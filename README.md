@@ -11,13 +11,13 @@
 ---
 
 ### 🚀 Projects
-- [Cafe Explorer on Purwokerto](https://cafeexploreronpwt.netlify.app/) — Web app to search and view cafe details  
+- [Cafe Explorer on Purwokerto](https://cafeexploreronpwt.netlify.app/) — Web app to search and view cafe details
+- [Satria Tech Web](https://satriatech.com/) — A web platform for IT consultancy & software development based in Indonesia  
 - [Website Point of Sale](https://nakopipos.jualkopipurwokerto.com/) — POS system for sales & inventory management  
 - [Management Information System](https://butikkopi.my.id/) — Sales & inventory web system for a coffee supplier
 - [BlueSoul Web](https://bluesoul.wuaze.com/) — A web platform for anonymous emotional sharing and song recommendations
-- [Satria Tech Web](https://satriatech.com/) — A web platform for IT consultancy & software development based in Indonesia
 - [SkillPath Web](https://skillpath.wuaze.com/) — A web platform where you can learn and practice through Levels 1, 2, and 3 and once you’ve mastered them all, take on the final challenge!
-- [StrataAcademy Web](https://strataacademy.my.id/) — A web platform platform designed to help students understand clinical concepts and scientific research in depth, not just rote memorization. Join dozens of medical students who have already participated in this interactive and systematic learning program.
+- [StrataAcademy Web](https://strataacademy.my.id/) — A web platform platform designed to help students understand clinical concepts and scientific research in depth, not just rote memorization. Join dozens of medical students who have already participated in this interactive and systematic learning program
 ---
 
 ### 🛠️ Tools
