@@ -47,7 +47,7 @@
 </div>
 <br/>
 
-### 🌐 [Management Information System](https://butikkopi.my.id/) — Sales & inventory web system for a coffee supplier
+### 🌐 [Management Information System](https://github.com/syamsaSJ/freshbeanpwt) — Sales & inventory web system for a coffee supplier
 **Tech Stack:**  
 <div align="left">
 <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
