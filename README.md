@@ -84,7 +84,7 @@
 </div>
 <br/>
 
-### 🌐 [StrataAcademy Web](https://strataacademy.my.id/) — A web platform platform designed to help students understand clinical concepts and scientific research in depth, not just rote memorization
+### 🌐 [StrataAcademy Web](https://strataacademy.id/) — A medical e-learning platform designed to help medical students develop a deep understanding of clinical concepts and scientific research, beyond rote memorization
 **Tech Stack:**  
 <div align="left">
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
